@@ -1,7 +1,5 @@
 ## What is TermGet
 
-What is TermGet?
-
 TermGet is a project made by PizzaLovingNerd, several others.
 
 TermGet is a terminal frontend for:

@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## What is TermGet
 
-You can use the [editor on GitHub](https://github.com/TermGet/termget.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+What is TermGet?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TermGet is a project made by PizzaLovingNerd, several others.
 
-### Markdown
+TermGet is a terminal frontend for:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- apt-get
+- xbps
+- dnf
+- eopkg
+- zypper
+- pacman
+- yaourt
+- homebrew
+- apm
+- pkg
+- chromebrew
+- emerge
+- pip
+- chocolatey [(Work In Progress)](https://github.com/TermGet/TermGet-Windows/)
 
-```markdown
-Syntax highlighted code block
+It's like a software center in your terminal!
 
-# Header 1
-## Header 2
-### Header 3
+## Where can I take it?
 
-- Bulleted
-- List
+[Right here](https://termget.github.io/docs/download.html)
 
-1. Numbered
-2. List
+## Who made it?
 
-**Bold** and _Italic_ and `Code` text
+PizzaLovingNerd (Main Developer)
+SadError256
+Dylan Cruz
+TechBizmo
+Emil Engler
 
-[Link](url) and ![Image](src)
-```
+## Where are the docs?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TermGet/termget.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Here are the docs, I tried to make the docs as detailed as possible](https://termget.github.io/docs/)

@@ -27,15 +27,11 @@ It's like a software center in your terminal!
 
 ## Who made it?
 
-PizzaLovingNerd (Main Developer)
-
-SadError256
-
-Dylan Cruz
-
-TechBizmo
-
-Emil Engler
+- PizzaLovingNerd (Main Developer)
+- SadError256
+- Dylan Cruz
+- TechBizmo
+- Emil Engler
 
 ## How do I install it? 
 ## How do I use it? 

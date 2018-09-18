@@ -28,11 +28,16 @@ It's like a software center in your terminal!
 ## Who made it?
 
 PizzaLovingNerd (Main Developer)
+
 SadError256
+
 Dylan Cruz
+
 TechBizmo
+
 Emil Engler
 
+## How do I install it? 
+## How do I use it? 
 ## Where are the docs?
-
 [Here are the docs, I tried to make the docs as detailed as possible](https://termget.github.io/docs/)

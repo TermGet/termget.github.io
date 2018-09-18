@@ -34,7 +34,7 @@ It's like a software center in your terminal!
 - Emil Engler
 
 ## Where are the docs?
-# How do I install it? 
-# How do I use it?
+### How do I install it? 
+### How do I use it?
 
 [Here are the docs, I tried to make the docs as detailed as possible](https://termget.github.io/docs/)

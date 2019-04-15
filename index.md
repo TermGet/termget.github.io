@@ -4,20 +4,26 @@ TermGet is a project made by PizzaLovingNerd, several others.
 
 TermGet is a terminal frontend for:
 
-- apt-get
-- xbps
-- dnf
-- eopkg
-- zypper
-- pacman
-- yaourt
-- homebrew
 - apm
-- pkg
+- apt-get
+- bower
 - chromebrew
+- dnf
 - emerge
-- pip
-- chocolatey [(Work In Progress)](https://github.com/TermGet/TermGet-Windows/)
+- eopkg
+- flatpak
+- gem
+- homebrew
+- nix
+- npm
+- pacman
+- pip (Supports pip, pip2, and pip3)
+- pkg
+- snap
+- xbps
+- yarn
+- yum
+- zypper
 
 It's like a software center in your terminal!
 
@@ -34,7 +40,7 @@ It's like a software center in your terminal!
 - Emil Engler
 
 ## Where are the docs?
-### How do I install it? 
-### How do I use it?
+#### How do I install it? 
+#### How do I use it?
 
 [Here are the docs, I tried to make the docs as detailed as possible](https://termget.github.io/docs/)

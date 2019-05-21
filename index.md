@@ -1,46 +1,56 @@
-## What is TermGet
+# index.md
 
-TermGet is a project made by PizzaLovingNerd, several others.
+### What is TermGet?
+TermGet is a package manager frontend for Linux, BSD macOS, and ChromeOS.
 
-TermGet is a terminal frontend for:
+### TermGet is a frontend for:
 
-- apm
-- apt-get
-- bower
-- chromebrew
-- dnf
-- emerge
-- eopkg
-- flatpak
-- gem
-- homebrew
-- nix
-- npm
-- pacman
-- pip (Supports pip, pip2, and pip3)
-- pkg
-- snap
-- xbps
-- yarn
-- yum
-- zypper
+ - apm
+ - apt-get
+ - bower
+ - chromebrew
+ - dnf
+ - emerge
+ - eopkg
+ - flatpak
+ - gem
+ - homebrew
+ - nix
+ - npm
+ - pacman
+ - pip (supports pip, pip2, and pip3)
+ - pkg
+ - snap
+ - xbps
+ - yarn
+ - yum
+ - zypper
 
 It's like a software center in your terminal!
 
-## Where can I take it?
+### Features
 
-[Right here](https://termget.github.io/docs/download.html)
+ - Simple, easy to use interface
+ - Works in the command line
+ - Supports a lot of package managers
+ - Feature rich
+ - Works on any Linux/ChromeOS/macOS distribution (and soon Windows)
+ - Great for introducing package management to new users
+ - Code is easy to modify.
 
-## Who made it?
+### Installation & Usage
 
-- Emil Engler (Main Developer)
-- PizzaLovingNerd (Other Main Developer)
-- SadError256
-- Dylan Cruz
-- TechBizmo
+ - Head over to [quickstart.md](quickstart.html) to install.
+ - Visit the [docs](/docs) for usage and more detailed instructions.
 
-## Where are the docs?
-#### How do I install it? 
-#### How do I use it?
+### TermGet is developed by these fine developers:
 
-[Here are the docs, I tried to make the docs as detailed as possible](https://termget.github.io/docs/)
+ - [PizzaLovingNerd](https://github.com/pizzalovingnerd)
+ - [Emil Engler](https://github.com/emilengler)
+ - [Quint Burkley](https://github.com/qwow5)
+ - [NekoBit](https://github.com/nekobit1)
+ - [TechBizmo](https://github.com/techbizmo)
+
+### Links
+
+ - [Docs](https://termget.github.io/docs)

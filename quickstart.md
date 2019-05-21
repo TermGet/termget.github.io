@@ -7,7 +7,7 @@
  3. Extract the download and open a terminal in the extracted directory.
  4. Run `./install.sh` and follow the prompts.
  5. Start TermGet with `sudo termget`.
-#
+
 That's it! TermGet is installed!
-#
+
 Refer to the [docs](/docs/install.html) for usage more detailed instructions.

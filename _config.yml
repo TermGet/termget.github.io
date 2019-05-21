@@ -1,6 +1,6 @@
 name: TermGet
 description: TermGet, Your Terminal's Software Center
-remote-theme: b2a3e8/jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 
 header_pages:
   - index.md

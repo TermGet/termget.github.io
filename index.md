@@ -1,4 +1,4 @@
-# TermGet
+# index.md
 
 ### What is TermGet?
 TermGet is a package manager frontend for Linux, BSD macOS, and ChromeOS.
@@ -40,7 +40,8 @@ It's like a software center in your terminal!
 
 ### Installation & Usage
 
-Visit the [docs](https://termget.github.io/docs) for more information.
+ - Head over to [quickstart.md](quickstart.html) to install.
+ - Visit the [docs](/docs) for usage and more detailed instructions.
 
 ### TermGet is developed by these fine developers:
 

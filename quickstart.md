@@ -1,7 +1,7 @@
 # quickstart.md
 
 ### Install TermGet on Linux, BSD, and macOS in 5 steps:
-#
+
  1. Make sure Python 3 (and [Homebrew](https://brew.sh), if you're on macOS) is installed.
  2. Download the latest TermGet [here](https://github.com/termget/termget/releases/latest).
  3. Extract the download and open a terminal in the extracted directory.

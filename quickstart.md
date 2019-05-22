@@ -11,3 +11,5 @@
 That's it! TermGet is installed!
 
 Refer to the [docs](/docs/install.html) for usage and more detailed instructions.
+
+Visit [this](/docs/install-chrome.html) page for ChromeOS installation instructions.

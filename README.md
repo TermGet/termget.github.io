@@ -1,4 +1,4 @@
-# TermGet
+# README.md
 
 ### What is TermGet?
 TermGet is a package manager frontend for any Linux, BSD, macOS, or ChromeOS distribution (Windows coming soon).

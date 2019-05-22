@@ -10,4 +10,4 @@
 
 That's it! TermGet is installed!
 
-Refer to the [docs](/docs/install.html) for usage more detailed instructions.
+Refer to the [docs](/docs/install.html) for usage and more detailed instructions.

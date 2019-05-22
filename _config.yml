@@ -3,7 +3,7 @@ description: TermGet, Your Terminal's Software Center
 remote_theme: b2a3e8/jekyll-theme-console
 
 header_pages:
-  - index.md
+  - README.md
   - quickstart.md
 
 style: dark # dark (default) or light

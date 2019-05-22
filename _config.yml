@@ -7,4 +7,4 @@ header_pages:
   - quickstart.md
 
 style: dark # dark (default) or light
-footer: '&copy 2019 The TermGet Team. All rights reserved.'
+footer: '&copy 2019 The TermGet Team.'

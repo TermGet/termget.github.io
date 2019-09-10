@@ -57,4 +57,4 @@ It's like a software center in your terminal!
 
  - [Docs](https://termget.github.io/docs)
  - [GitHub](https://github.com/termget)
- 
+ - [Discord](https://discord.gg/fCvMGcU)
